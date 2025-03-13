@@ -1,5 +1,7 @@
 # 后记
 
+涉及技术：Vue 3 , TypeScript , scss , Pinia , husky , Eslint 
+
 基于黑马程序员的大事件管理系统，从js迁移到ts
 
 第一次用vue写稍微大型的项目，对类型的把握不是很好

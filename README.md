@@ -1,4 +1,4 @@
-# Vue3-big-event-admin
+# 后记
 
 基于黑马程序员的大事件管理系统，从js迁移到ts
 
